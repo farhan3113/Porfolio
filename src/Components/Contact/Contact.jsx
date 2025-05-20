@@ -103,11 +103,11 @@ const Contact = () => {
           <div className="space-y-4 text-sm">
             <div className="flex items-center gap-2">
               <span><img className="w-5 " src={gmailIcon} alt="" /></span> farhan02055@gmail.com
-              {/* <span>📧</span> farhan02055@gmail.com */}
+            
             </div>
             <div className="flex items-center gap-2">
               <span><img className="w-5 " src={callIcon} alt="" /></span> +7668–008–375
-              {/* <span>📞</span> +7668–008–375 */}
+             
             </div>
             <div className="flex items-center gap-2">
               <span><img className="w-5 " src={locationIcon} alt="" /></span> UP, Uttar Pradesh
