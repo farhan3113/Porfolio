@@ -16,7 +16,7 @@ const Footer = () => {
 
             GitHub
           </a>
-          <a href="https://linkedin.com/in/farhanahmad85052a263" target="_blank" rel="noopener noreferrer" className="flex gap-1 hover:text-gray-300">
+          <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="noopener noreferrer" className="flex gap-1 hover:text-gray-300">
                        <img className="w-[18px] h-[18px] mt-1 " src={linkedinicon} alt="" />
 
             LinkedIn
