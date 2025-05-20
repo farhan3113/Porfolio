@@ -80,7 +80,7 @@ const Projects = () => {
               )}
               <button
                 onClick={() => toggleExpand(index)}
-                className="text-yellow-400 underline text-sm ml-auto"
+                className="text-blue-400  hover:underline text-sm ml-auto"
               >
                 {expandedIndex === index ? "Less" : "More"}
               </button>
