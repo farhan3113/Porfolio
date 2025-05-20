@@ -18,7 +18,7 @@ const Home = () => {
           development and hands-on project experience to enhance my skillset.
         </p>
         <button
-          className="mt-5 md:md-10 text-white py-2 text-sm md:text-lg  md:py-2 
+          className="mt-5 md:md-10 px-4 text-white py-2 text-sm md:text-lg  md:py-2 
         md:px-4  hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
         >
           Contact Me
