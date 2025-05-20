@@ -17,12 +17,15 @@ const Home = () => {
           websites with clean, efficient code. Currently focused on full-stack
           development and hands-on project experience to enhance my skillset.
         </p>
+        <a href="https://drive.google.com/file/d/1y-x6i-iydYutM1GBI7geBxMzpCTC7Ord/view?usp=drivesdk">
         <button
           className="mt-5 md:md-10 px-4 text-white py-2 text-sm md:text-lg  md:py-2 
         md:px-4  hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]"
         >
-          Contact Me
+
+          My Resume
         </button>
+        </a>
       </div>
       <div className="">
         <img src={img} className=" w-[449px]  mt-5" alt="" />
