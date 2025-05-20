@@ -39,7 +39,7 @@ const TextChanger = () => {
 
   return (
     <div
-      className="relative overflow-hidden "
+      className="relative overflow-hidden    :"
       style={{ minHeight: '4rem' }}
     >
       <div
